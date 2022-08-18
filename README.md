@@ -10,3 +10,11 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+
+<h1>usage</h1>
+
+first you must install all dependencies <code>npm install</code>
+
+then you can use the application after run this command <code>npm start</code>
